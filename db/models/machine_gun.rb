@@ -1,3 +1,4 @@
+require 'sequel'
 require 'colorize'
 # -------- ONLY Change Above ------
 
